@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Abdelrahman (aka Boudy), a Software Developer from Egypt</h2>
+<h2 align="center">Hi 👋! I'm Abdelrahman (aka Boudy), a Software Developer</h2>
 
 ###
 
